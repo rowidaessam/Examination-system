@@ -1,0 +1,36 @@
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\bin\Debug\net6.0\Utilities.dll
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\bin\Debug\net6.0\Utilities.pdb
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CopyComplete
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+D:\itiDeploma\month-4\Day-8\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\bin\Debug\net6.0\Utilities.dll
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\bin\Debug\net6.0\Utilities.pdb
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CopyComplete
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+E:\Dot Net\Visual C#\Labs\Examination system\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
